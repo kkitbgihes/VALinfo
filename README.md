@@ -51,16 +51,3 @@ VALinfo is a desktop application for VALORANT that provides live information abo
 
 Download the latest release from the
 [Releases](../../releases) page and run `ValInfo.exe`.
-
-### From source
-
-Requirements:
-
-- Python 3.10+
-- Windows
-- VALORANT / Riot Client
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
