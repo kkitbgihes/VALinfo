@@ -4,8 +4,8 @@ Open-source VALORANT tracker with live match statistics, player analysis and mat
 VALinfo is a desktop application for VALORANT that provides live information about your current match, analyzes players and predicts match outcomes.
 
 <img width="1192" height="690" alt="Screenshot_67" src="https://github.com/user-attachments/assets/63ca6673-0f64-48be-8caf-cf9ece5e775c" />
-<img width="1228" height="724" alt="Screenshot_68" src="https://github.com/user-attachments/assets/d702a43a-cfbd-4c64-a884-886505e89fc5" />
-<img width="1218" height="720" alt="Screenshot_69" src="https://github.com/user-attachments/assets/39e26dd3-11bf-4c96-9269-731cd7594c30" />
+<img width="1197" height="697" alt="Screenshot_73" src="https://github.com/user-attachments/assets/5f37506c-6109-4abf-b1c0-b722a33c55c6" />
+<img width="1196" height="695" alt="Screenshot_74" src="https://github.com/user-attachments/assets/e9c70528-65bb-4cb6-9ade-3e1cbd06ba0a" />
 
 
 ## Features
