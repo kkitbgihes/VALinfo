@@ -1,4 +1,4 @@
-# VALinfo
+# VALinfo - Simple VALORANT tracker
 
 Open-source VALORANT tracker with live match statistics, player analysis and match predictions.
 VALinfo is a desktop application for VALORANT that provides live information about your current match, analyzes players and predicts match outcomes.
